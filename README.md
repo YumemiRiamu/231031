@@ -84,5 +84,5 @@ LRESULT CMyView::OnMinFound(WPARAM wParam, LPARAM lParam)
 ```
 실행 화면</br>
 
-![Image description](./1.png) </br>
-![Image description](./2.png) </br>
+![Image description](./1.PNG) </br>
+![Image description](./2.PNG) </br>
